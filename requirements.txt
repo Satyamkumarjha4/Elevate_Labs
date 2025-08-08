@@ -1,1 +1,2 @@
 # Required Python packages
+colorama
