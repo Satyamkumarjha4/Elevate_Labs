@@ -1,2 +1,4 @@
 # Required Python packages
 colorama
+bs4
+requests
