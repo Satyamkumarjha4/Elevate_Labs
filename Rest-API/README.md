@@ -71,13 +71,13 @@ Navigate to the Rest-API directory and run:
 python flask_app.py
 ```
 
-The API will be available at: `http://127.0.0.1:5000`
+The API will be available at: `http://127.0.0.1:5000/users`
 
 ## 📖 API Documentation
 
 ### Base URL
 ```
-http://127.0.0.1:5000
+http://127.0.0.1:5000/users
 ```
 
 ### Endpoints
