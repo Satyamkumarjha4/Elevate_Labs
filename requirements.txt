@@ -3,3 +3,7 @@ colorama
 bs4
 requests
 flask
+pandas
+numpy
+matplotlib
+seaborn
